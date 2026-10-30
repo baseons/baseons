@@ -46,6 +46,7 @@ return [
         424 => 'Falha devido a dependência',
         425 => 'Coleção fora de ordem',
         426 => 'Atualização necessária',
+        429 => 'Muitas solicitações',
         449 => 'Tente novamente',
         450 => 'Bloqueado pelo controle parental do Windows',
         500 => 'Erro interno no servidor',
